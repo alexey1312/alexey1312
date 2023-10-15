@@ -1,11 +1,13 @@
 # Hello there 👋
 
-- 🇰🇿 I live in Almaty, Kazakhstan.
-- 👨‍💻 I'm an engineer at [inDrive](https://indrive.com).
-- 🍏 Most of the time I'm writing on Swift.
-- 🌱 I’m currently learning: __SwiftUI, Combine, Go__.
-- 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✉️ You can shoot me an email at [i@aleshka.dev](mailto:i@aleshka.dev).
+- 🇰🇿 I live in Almaty, Kazakhstan
+- 👨‍💻 I'm an engineer at [inDrive](https://indrive.com)
+- 🍏 Most of the time I'm writing on Swift
+- 🌱 I’m currently learning: __SwiftUI, Combine, Go__
+- 🚀 I love pet-projects. They help me grow professionally all my life
+- ✉️ You can shoot me an email at [i@aleshka.dev](mailto:i@aleshka.dev)
+
+### My CV: [Aleksei Kakoulin.pdf](https://raw.githubusercontent.com/alexey1312/alexey1312/master/cv.pdf)
 
 ## 🔨 My badge area
 
