@@ -1,30 +1,41 @@
 # Hello there 👋
 
-## **I'm an iOS Developer working in Almaty, Kazakhstan**
+- 🇰🇿 I live in Almaty, Kazakhstan.
+- 👨‍💻 I'm an engineer at [inDrive](https://indrive.com).
+- 🍏 Most of the time I'm writing on Swift.
+- 🌱 I’m currently learning: __SwiftUI, Combine, Go__.
+- 🚀 I love pet-projects. They help me grow professionally all my life.
+- ✉️ You can shoot me an email at [i@aleshka.dev](mailto:i@aleshka.dev).
 
-- 👨‍💻 I’m currently working as an iOS Software Engineer at [inDrive](https://github.com/inDriver)
-- 🌱 I’m currently learning: __SwiftUI, Combine, Go__
+## 🔨 My badge area
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aleksei-kakoulin/)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![JavasSript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![Github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logoo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![homeassistant](https://img.shields.io/badge/homeassistant%20-%2341BDF5.svg?&style=for-the-badge&logo=home%20assistant&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![TACT](https://img.shields.io/badge/TACT-3C3C3D?style=for-the-badge&logo=TACT&logoColor=white) 
 
-## 📊 My GitHub Stats:
+## 🐕 My pet-projects
 
-<table vertical-align: top>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=alexey1312&row=3&column=4&no-bg=true&theme=nord"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexey1312&theme=radical&hide_border=false&theme=dark"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=alexey1312&count_private=true&show_icons=true&theme=nord"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexey1312&langs_count=10&layout=compact&theme=nord"/>
-        </td>
-    </tr>
-</table>
+### [realyapp](https://realyapp.com)
+
+Connecting disconnected.
+
+## 🤝 Connect with me
+
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aleksei-kakoulin/)
