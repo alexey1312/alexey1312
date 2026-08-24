@@ -5,7 +5,7 @@
 - 🍏 Most of the time I'm writing on Swift
 - 🌱 I’m currently learning: __Flutter, Python, Go__
 - 🚀 I love pet-projects. They help me grow professionally all my life
-- ✉️ You can shoot me an email at [i@aleshka.dev](mailto:i@aleshka.dev)
+- ✉️ You can shoot me an email at [me@kakoulin.com](mailto:me@kakoulin.com)
 
 ### My CV: [Aleksei Kakoulin.pdf](https://raw.githubusercontent.com/alexey1312/alexey1312/master/cv.pdf)
 
