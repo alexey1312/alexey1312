@@ -1,0 +1,270 @@
+{
+  "login": "alexey1312",
+  "name": "ALEKSEI KAKOULIN",
+  "bar": [
+    "SWIFT://ALMATY // NODE:ALEXEY1312",
+    "BUILD SUCCEEDED"
+  ],
+  "about": [
+    [
+      [
+        "iOS engineer at "
+      ],
+      [
+        "inDrive",
+        "accent"
+      ],
+      [
+        " · Almaty, Kazakhstan"
+      ]
+    ],
+    [
+      [
+        "Swift on iPhone, Mac, server and Android"
+      ]
+    ],
+    [
+      [
+        "I make tools for developers and their coding agents"
+      ]
+    ]
+  ],
+  "summary": "Aleksei Kakoulin (@alexey1312). iOS engineer at inDrive in Almaty, Kazakhstan. Swift on iPhone, Mac, server and Android. Author of ExFig, top contributor to xcsift, agent skills for Apple platforms.",
+  "location": "Almaty, KZ",
+  "links": [
+    {
+      "icon": "blog",
+      "label": "Blog",
+      "handle": "blog.kakoulin.com",
+      "url": "https://blog.kakoulin.com"
+    },
+    {
+      "icon": "linkedin",
+      "label": "LinkedIn",
+      "handle": "in/alexey1312",
+      "url": "https://www.linkedin.com/in/alexey1312/"
+    },
+    {
+      "icon": "telegram",
+      "label": "Telegram",
+      "handle": "@akakoulin",
+      "url": "https://t.me/akakoulin"
+    },
+    {
+      "icon": "mail",
+      "label": "Email",
+      "handle": "me@kakoulin.com",
+      "url": "mailto:me@kakoulin.com"
+    },
+    {
+      "icon": "cv",
+      "label": "CV",
+      "handle": "PDF",
+      "url": "cv.pdf"
+    }
+  ],
+  "highlight": {
+    "repo": "ldomaradzki/xcsift",
+    "label": "xcsift"
+  },
+  "projects": [
+    {
+      "name": "ExFig",
+      "repo": "DesignPipe/exfig",
+      "url": "https://designpipe.github.io/exfig/",
+      "tag": "AUTHOR",
+      "color": "accent",
+      "stack": "Swift · CLI · macOS, Linux, Windows",
+      "desc": "Design-to-code CLI for Figma and Penpot. It exports colors, icons, images and type for iOS, Android, Flutter and Web.",
+      "get": "brew install designpipe/tap/exfig"
+    },
+    {
+      "name": "xcsift",
+      "repo": "ldomaradzki/xcsift",
+      "url": "https://github.com/ldomaradzki/xcsift",
+      "tag": "TOP CONTRIBUTOR",
+      "color": "green",
+      "stack": "Swift · CLI",
+      "desc": "Parses xcodebuild output into token-efficient JSON for coding agents.",
+      "get": "brew install xcsift"
+    },
+    {
+      "name": "iPhone Duo Agent Skills",
+      "repo": "alexey1312/iPhone-Duo-Agent-Skill",
+      "tag": "AGENT SKILLS",
+      "color": "pink",
+      "stack": "Claude Code · Codex · Cursor",
+      "desc": "Audit and adapt SwiftUI and UIKit apps for iPhone Duo: vertical bars, hinge-aware layout, two displays.",
+      "get": "npx skills add alexey1312/iPhone-Duo-Agent-Skill"
+    },
+    {
+      "name": "Foldy",
+      "repo": "alexey1312/foldy",
+      "url": "https://foldy.proteinunit.dev",
+      "tag": "MACOS APP",
+      "color": "cyan",
+      "stack": "Swift · ScreenCaptureKit · Metal",
+      "desc": "Your desktop bends as you close the lid: the iPhone Duo fold on the MacBook you already have.",
+      "get": "foldy.proteinunit.dev",
+      "cmd": false
+    },
+    {
+      "name": "Reachy Mini Swift",
+      "repo": "alexey1312/reachy-mini-swift",
+      "tag": "ROBOTICS",
+      "color": "purple",
+      "stack": "Swift 6 · WebRTC · macOS, iPadOS, iOS",
+      "desc": "Native Swift client for the Reachy Mini robot. Unofficial, not affiliated with Pollen Robotics.",
+      "get": "Swift Package · alexey1312/reachy-mini-swift",
+      "cmd": false
+    },
+    {
+      "name": "SnapshotTestingHEIC",
+      "repo": "alexey1312/SnapshotTestingHEIC",
+      "tag": "SWIFT PACKAGE",
+      "color": "yellow",
+      "stack": "Swift · SnapshotTesting",
+      "desc": "An extension to SnapshotTesting that records reference images in HEIC instead of PNG.",
+      "get": "Swift Package · alexey1312/SnapshotTestingHEIC",
+      "cmd": false
+    },
+    {
+      "name": "SwiftIndex",
+      "repo": "alexey1312/swift-index",
+      "tag": "CLI",
+      "color": "accent",
+      "stack": "Swift · CLI · MCP server",
+      "desc": "Semantic code search for Swift codebases, as a CLI and as an MCP server for AI assistants.",
+      "get": "brew install alexey1312/swift-index/swiftindex"
+    },
+    {
+      "name": "clai",
+      "repo": "alexey1312/clai",
+      "tag": "CLI",
+      "color": "accent",
+      "stack": "Swift · CLI · MLX, Ollama",
+      "desc": "LLM help for any command-line tool. Local-first and privacy-friendly.",
+      "get": "brew install alexey1312/clai/clai"
+    }
+  ],
+  "also": [
+    {
+      "name": "Swift Charts skill",
+      "repo": "alexey1312/Swift-Charts-Agent-Skill",
+      "desc": "Selection highlights from masks"
+    },
+    {
+      "name": "Swift Android skill",
+      "repo": "alexey1312/Swift-Android-Agent-Skill",
+      "desc": "Swift core under Compose UI"
+    },
+    {
+      "name": "Vibe Editing skill",
+      "repo": "alexey1312/Vibe-Editing-Agent-Skill",
+      "desc": "Cut video by conversation"
+    },
+    {
+      "name": "System Design skill",
+      "repo": "alexey1312/System-Design-Agent-Skill",
+      "desc": "Architecture review on a repo"
+    },
+    {
+      "name": "Laner",
+      "repo": "alexey1312/Laner",
+      "desc": "Swift-native CI/CD for Apple"
+    },
+    {
+      "name": "baton",
+      "repo": "alexey1312/baton",
+      "desc": "AI code review for monorepos"
+    },
+    {
+      "name": "ruen-sync-mac",
+      "repo": "alexey1312/ruen-sync-mac",
+      "desc": "QMK layer follows macOS input"
+    },
+    {
+      "name": "Realy.",
+      "url": "https://apps.apple.com/kz/app/realy/id1485012603",
+      "desc": "Friends by shared values · iOS"
+    }
+  ],
+  "stack": [
+    [
+      "languages",
+      [
+        "Swift",
+        "Objective-C",
+        "Python",
+        "TypeScript"
+      ]
+    ],
+    [
+      "apple",
+      [
+        "SwiftUI",
+        "UIKit",
+        "Concurrency",
+        "Metal"
+      ]
+    ],
+    [
+      "server",
+      [
+        "Hummingbird",
+        "Node.js",
+        "Docker"
+      ]
+    ],
+    [
+      "tooling",
+      [
+        "Xcode",
+        "Tuist",
+        "mise",
+        "Fastlane",
+        "GitHub Actions"
+      ]
+    ],
+    [
+      "agents",
+      [
+        "Agent Skills",
+        "MCP servers",
+        "Claude Code"
+      ]
+    ]
+  ],
+  "writing": {
+    "all": {
+      "label": "read all posts on blog.kakoulin.com",
+      "url": "https://blog.kakoulin.com"
+    },
+    "posts": [
+      {
+        "date": "2026-07-24",
+        "publication": "HackerNoon",
+        "title": "The CLI Is the Third Interface: Ship a Team Tool in One Evening",
+        "url": "https://hackernoon.com/the-cli-is-the-third-interface-ship-a-team-tool-in-one-evening"
+      },
+      {
+        "date": "2026-06-12",
+        "publication": "HackerNoon",
+        "title": "How a Weekend MVP Became inDrive's Cross-Platform Design Token Export Tool",
+        "url": "https://hackernoon.com/how-a-weekend-mvp-became-indrives-cross-platform-design-token-export-tool"
+      },
+      {
+        "date": "2023-01-29",
+        "publication": "Medium",
+        "title": "How to add Live Activity to your existing project. Part I",
+        "url": "https://medium.com/geekculture/how-to-add-live-activity-to-your-existing-project-part-i-67008064ae55"
+      },
+      {
+        "date": "2022-09-13",
+        "publication": "Medium",
+        "title": "The inDriver design system: don't try to leave Oymyakon",
+        "url": "https://medium.com/geekculture/the-indriver-design-system-dont-try-to-leave-oymyakon-c9172f32c99a"
+      }
+    ]
+  }
+}

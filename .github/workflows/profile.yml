@@ -1,0 +1,41 @@
+name: profile
+
+on:
+  # Every day at 08:17 in Almaty. The stats, the city and the releases change.
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["profile/*.py", "profile/*.json", "mise.toml", "requirements.txt", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - uses: jdx/mise-action@08ae2a091c038e1e05ec6f5115dc5c69d5a2a6b8 # v5.1.2
+      - name: Regenerate the profile
+        run: mise run readme
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          # Optional classic token with read:user and repo. It adds private contributions.
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+      - name: Commit the changes
+        run: |
+          git add README.md assets profile/data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile"
+          git push || { git pull --rebase origin main && git push; }

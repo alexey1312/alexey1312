@@ -1,0 +1,322 @@
+{
+  "DesignPipe/exfig": {
+    "stars": 10,
+    "release": {
+      "tag": "v3.6.2",
+      "date": "2026-07-30",
+      "url": "https://github.com/DesignPipe/exfig/releases/tag/v3.6.2"
+    },
+    "own": false,
+    "archived": false
+  },
+  "alexey1312/BirthdayReminder": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/DemoAudioPlayer": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/Dynamo_VPO": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/EasyCalculator": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/Laner": {
+    "stars": 4,
+    "release": {
+      "tag": "v0.2.0",
+      "date": "2026-02-07",
+      "url": "https://github.com/alexey1312/Laner/releases/tag/v0.2.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/MyPlaces": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/MyPyRevit": {
+    "stars": 1,
+    "release": null,
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/News4You": {
+    "stars": 1,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/NumFact": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/SnapshotTestingHEIC": {
+    "stars": 29,
+    "release": {
+      "tag": "1.6.0",
+      "date": "2025-12-01",
+      "url": "https://github.com/alexey1312/SnapshotTestingHEIC/releases/tag/1.6.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/SnapshotTestingWebP": {
+    "stars": 2,
+    "release": {
+      "tag": "1.1.0",
+      "date": "2026-02-12",
+      "url": "https://github.com/alexey1312/SnapshotTestingWebP/releases/tag/1.1.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/Swift-Android-Agent-Skill": {
+    "stars": 1,
+    "release": {
+      "tag": "v1.0.0",
+      "date": "2026-10-01",
+      "url": "https://github.com/alexey1312/Swift-Android-Agent-Skill/releases/tag/v1.0.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/Swift-Charts-Agent-Skill": {
+    "stars": 1,
+    "release": {
+      "tag": "v1.1.0",
+      "date": "2026-10-06",
+      "url": "https://github.com/alexey1312/Swift-Charts-Agent-Skill/releases/tag/v1.1.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/Swift_HSE-INC": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/System-Design-Agent-Skill": {
+    "stars": 0,
+    "release": {
+      "tag": "v1.0.0",
+      "date": "2026-09-22",
+      "url": "https://github.com/alexey1312/System-Design-Agent-Skill/releases/tag/v1.0.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/TOONDecoder": {
+    "stars": 1,
+    "release": {
+      "tag": "0.1.0",
+      "date": "2025-12-01",
+      "url": "https://github.com/alexey1312/TOONDecoder/releases/tag/0.1.0"
+    },
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/Vibe-Editing-Agent-Skill": {
+    "stars": 0,
+    "release": {
+      "tag": "v1.0.0",
+      "date": "2026-10-15",
+      "url": "https://github.com/alexey1312/Vibe-Editing-Agent-Skill/releases/tag/v1.0.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/agents-plugins": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/alexey1312": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/alexey1312.github.io": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/baton": {
+    "stars": 2,
+    "release": {
+      "tag": "v0.1.4",
+      "date": "2026-05-30",
+      "url": "https://github.com/alexey1312/baton/releases/tag/v0.1.4"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/clai": {
+    "stars": 2,
+    "release": {
+      "tag": "v1.2.0",
+      "date": "2026-02-03",
+      "url": "https://github.com/alexey1312/clai/releases/tag/v1.2.0"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/compact-site": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/fin-toolkit": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/foldy": {
+    "stars": 2,
+    "release": {
+      "tag": "v0.1.8",
+      "date": "2026-09-13",
+      "url": "https://github.com/alexey1312/foldy/releases/tag/v0.1.8"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/homebrew-clai": {
+    "stars": 1,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/homebrew-exfig": {
+    "stars": 1,
+    "release": null,
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/homebrew-swift-index": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/homebrew-tap": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/iPhone-Duo-Agent-Skill": {
+    "stars": 5,
+    "release": {
+      "tag": "v1.4.2",
+      "date": "2026-10-14",
+      "url": "https://github.com/alexey1312/iPhone-Duo-Agent-Skill/releases/tag/v1.4.2"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/mise-xcsift": {
+    "stars": 0,
+    "release": {
+      "tag": "v1.0.0",
+      "date": "2025-11-07",
+      "url": "https://github.com/alexey1312/mise-xcsift/releases/tag/v1.0.0"
+    },
+    "own": true,
+    "archived": true
+  },
+  "alexey1312/reachy-mini-swift": {
+    "stars": 4,
+    "release": {
+      "tag": "0.7.1",
+      "date": "2026-10-06",
+      "url": "https://github.com/alexey1312/reachy-mini-swift/releases/tag/0.7.1"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/ruby-prebuilt": {
+    "stars": 0,
+    "release": {
+      "tag": "3.4.8",
+      "date": "2025-12-23",
+      "url": "https://github.com/alexey1312/ruby-prebuilt/releases/tag/3.4.8"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/ruen-sync-mac": {
+    "stars": 0,
+    "release": {
+      "tag": "v1.4.6",
+      "date": "2026-07-02",
+      "url": "https://github.com/alexey1312/ruen-sync-mac/releases/tag/v1.4.6"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/split_keyboard_layouts": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/swift-index": {
+    "stars": 5,
+    "release": {
+      "tag": "v0.6.1",
+      "date": "2026-09-24",
+      "url": "https://github.com/alexey1312/swift-index/releases/tag/v0.6.1"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/swift-resvg": {
+    "stars": 2,
+    "release": {
+      "tag": "v0.45.1-swift.15",
+      "date": "2026-02-23",
+      "url": "https://github.com/alexey1312/swift-resvg/releases/tag/v0.45.1-swift.15"
+    },
+    "own": true,
+    "archived": false
+  },
+  "alexey1312/test_twa": {
+    "stars": 0,
+    "release": null,
+    "own": true,
+    "archived": false
+  },
+  "ldomaradzki/xcsift": {
+    "stars": 504,
+    "release": {
+      "tag": "v1.6.0",
+      "date": "2026-10-13",
+      "url": "https://github.com/ldomaradzki/xcsift/releases/tag/v1.6.0"
+    },
+    "own": false,
+    "archived": false
+  }
+}

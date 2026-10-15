@@ -1,0 +1,25 @@
+[tools]
+python = "3.13"
+
+[env]
+_.python.venv = { path = ".venv", create = true }
+
+[tasks.install]
+description = "Install the pinned Python dependencies"
+run = "pip install --quiet --disable-pip-version-check -r requirements.txt"
+sources = ["requirements.txt"]
+outputs = { auto = true }
+
+[tasks.fetch]
+description = "Fetch fresh numbers from GitHub into profile/data/"
+run = "python profile/fetch.py"
+
+[tasks.render]
+description = "Render assets/*.svg and README.md from profile/data/"
+depends = ["install"]
+run = "python profile/render.py"
+
+[tasks.readme]
+description = "Fetch fresh data, then render the profile"
+depends = ["install"]
+run = ["python profile/fetch.py", "python profile/render.py"]
