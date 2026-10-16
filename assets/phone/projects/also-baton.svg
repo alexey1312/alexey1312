@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="120" viewBox="0 0 110 120" role="img" aria-labelledby="t d">
+<title id="t">baton</title>
+<desc id="d">baton: AI code review for monorepos. 2 stars.</desc>
+<style>
+@font-face{font-family:'JBM';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAXAABAAAAAACwAAAAVlAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVF4ATBEICopMiHwBNgIkAyILIgAEIAWEPgcgDAcb9AhRVFEWA3x1YFMR06N7iOihUo22IZXJeKXGG1343Boinn+/12vQP7/2Oufufnp3kxSJFQA6BLspoGwlCgUIIVvSxNP3Z76F2ZgfTLL+6xd5VQC6de4Az51SqHefYtWKPHBfUOc/bFkmHHAsraktonDIxlXKFPD+SyzLCmGEagqN2dwcsSSSlRO+0kwIO9UxjHVqQgxyGKUD//xRCEgAACEyKJElCjRS+ahRY5q7QDIxwH8AwJG2wRN7uMy1iyaMgGImkeNim6mDZMBS5ABMPC/XfBQNAxgUKCzFtRMOAK7RzYT58w93XJ14f4i1sUqgmQSEyGNALXFAK7GbVkQmxACrnncopgSRpQGBWMAU6yBoPkA3gMgfsUs+olZXmxHR8CgCUl0YTz8UIg8a/fmMNmHdlW68RtpH/n9jj2MOrSolxEQlcEQhNhutC+gi2GJEYgq7PtJDjKhy+LutsdctrlOjuGY6LvGGzZKWdZJCw0aXybT0jfaUub/2RUhfNUotK/PS11hQqLt7emmZFNJn7H6+iHtW+0DIOFO33Z4TgwXDiW/KsPu1M1yWsRDJhrAdDiDa1e0D5zs8RZw7FQW5HCfYbncyLaIaJSJY1Yz0ivZczY+6zO5LLs9M1QyPHdeMl2XisVCmAJadOjVD1eMZ9/DVQTMSFZEcazn5VZESrfClpMmNX5juxx+bKH3UKHUOlqydXGaXBE9DT3vazNrHY7nW5jCwUV+TEFTEXHpqxozrBPTijWZe9+8e5LDwgB7S7BmjKxoHzqlzJKTd27v12aP8st+FGUv6mlv8vd3H+va8o5MP5xEwecy6zl73sLdrWl806/RPk4PWMFgHqmg9IpYLJe9BUwrVYUHzc6PwKdwTMyM/H+GsZKd/2L3XVTEZ06LHSWwTpqrXYjSyCfkp4GiE0bx6vIWhO73BvnEwYvyp0WEk5gLCCLdc5cLXESpnw0c4VJz4elzl6sLbjDiOrcOQNhoIwPYDIMK2NtHkdm77drj9OfecRE2bOCBE+lRqD44RaveWJCmvQ8VNYLja00U0myzNZswMvwk9xp9lMeVloOz+H44BkHtkfrg+cGDa9CX7OOBwvPy+QukSmQnagFlYFMbgOk9ASRIehdKJI/hUW8v5qy0cqEb4VGonCs0UZUZI1qBCSBJpghdO87j58N6NtMDEsR4VqnH6VWDbHtvK6hM+3m3e73PwAODrH2tPaYG2/1oUIREWweRHbbkL49fP4fixf78qtanRPuAb8bPesWOACBMx6KOMtjL6+lJj4EmTQohX8E29WmmQYfTRkIFpw1q6mpBwLJ8JrsYvzh+Ctx73/Zv7eiYpUfcaccbZXO+RXJCSfNknjeazjCch53vEbfWsi+ifFAm0mRlELRTTB9yStka2H9XJO+xCFAWgSoeyfRyvb3S+iBJoGBRcnwfD2NcXoll9JGyg58mJsFsSJfMm9W4AIMD6xA+3vb29oGTQ1+Qo+ghQ9eLktvrDlc8+of3frJG9A7LYSIz/4aDNZDCYdiGGolc2EwjnKD/fTasdZMFo143Srh0lBqhGK053AaSclDGquABcgrZcNHJDbhRTLo8Y5KM8plMt5BkaNEWWpUMr9QSJDq+KtUIq6aOeeF81UnWWkUYbY6pxosIiJqimIPtMVevyEoO1NkETEExVr6gR4820GG3E6LPajTPagCC/xlm4iSaIGG0cG/G0AWePMZ6BlFRYlDWdiXwk/EYbJo20sN8Ve/P8maU4wd18oiFe4yjUFeTkjPslGLXXEY9fPNarvjI9gutGUc6q6tjLFZPY6/o+aq0m8BqCuR9ntGHeacYBwP8ofmH15/R/4fE+AAA=) format('woff2')}@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAW4ABAAAAAACtQAAAVcAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVEwATBEICopMiGEBNgIkAyILIgAEIAWEJgcgDAcbrwgAHoPjbolQYlkMLfgveH7B1Us8PO3X67nz9tObELEkJAW4GyTLLhESsNVIwlSlqrU7pFfNwXgwmqxPCzkrnlw+zFZk9RVq5D9s2fT7q/reQm1Do3v7M8u3oJp84vSdKw1scpSmwyFtKhdSPg3z2hk5Dj+1CbSigCHdIBAPo9RLo5TZQrkeZKtAHYBhDzFb6tIKD1ODCVCNhE6vpPWpFzSQbqX1AFi0fB6IrQCPbgASLaTcgKMtnAmAF8YZLP7+f0HnSRmFa0tD0jv007s9NEvolIBBbSeDocEUwCMwfzKlSKjoJhWiMb0nrQcgfUEhpGgnHyZjwQ9LjFHS000zlnLak+k8kgatLIxDSaxvWv/NHhuttcEfAmlsm6ikUPXr7QrEO9I8DxlNVPyNMYcFMfCpMfXOVW0qOxSWZVvl55798tu65Of07FUqGJa9itrvOd/0u/LWN91yX/+ed/tXqYxyZPXF2uWvI8pb71W/3YHdbXgJyoZsdZ5dKwxQtudBDn4q+oHqjxkRztNqbEzFPpRS9BtQxV1FOFre0PrWb1GUkadAWZmqORtIBTERCpAetG7Zpah9yrc/qL7PkYvVKaa89CzHuuuvmbvL3zlgWWi1voCrPg/mLL6zjHX5Ka2tDlu2/6UgWsW+PB/Ii5zGzNq8nd/CGbded8u1mVrZjv9dxbKn9vtEW5654rgslc9std9y8Iv/13yoSkdrm+Hpdabz19VLVL+abChUhiVrX88wgoZp7DhxxZ+Lbqo88qK8tbt/nNkq5St8yVlDWeSaqMm7FJnNWTBHpxzPVozZXP5Bn3FozF3O6rCIWhwkl5zHWzzzffssObC28FVy3oX68Pi7qW1pl3pf+GPqT6Dz9lEb3d6+6ShqgsugCUXMxDLCDBRDxsOt9XylTKBxR23hKTtOIgtF0AzmNQsDkOHmLuEy3AEoFPk3UHuWAr8thifPuIT049gQuQQOg9Ays0lRvLFv4/YL25+feF4MiU19YF6LKEgyKC6Lu4Ct9InEgbRTGIXvcRb+HnblxN0GQWMjMfu/SKA/eunfpbtXXp7aENuaAKrT33/8Gq2cS4yi5AXaFBDM8EXpYoGfoDt6ePxpmXjzhgl9oL1FFCKYju5pbBGEIygTG4bavj0buke39D28MDs21Ucxu5mOMAEWPZxzsnr9ilEnZj48OHUAjGjxj/kyjFOkGIFGTITrYfPbU+Ppax+fmJHyvPebhWLYaQaew5TIO27UM0kSHE5CAlv7vh6vXP56la6T1zSXbaAjXp6IE46xpGE6T8hkzyl0OoXN/M1ge9Oen5GpTz+G/3vNaxGHUaaFw5U4xM1JHF3aPke9cCE1p20rksCVrQJnt306EovAWwvadnUP03hNQnMngzT4EIHAg9AMjC6Bidc0Qu/a2bbgNnilAY1lvJCYE4qzJLI4hxOXEi39v493yRxRw0xXa9iN82XSlMriNv92dRVx/msuin/g72eHtsHf7578Ma/+fxqWfgiNEghurba0HkGBLiDFBMXevBWDolUWmodPh32xHkJ0HN3oUtAOXRrfMdLzslsKUWnBe9a5oZcL3KTZH9zCFF+4FUOiktugR3A4jQaFUSpoFWemNfKyR9t9xGt3ayc3HpklqdeYfmFBIYOa4dC5v5l+K/Qjae8fxEUKU8ISBoQVkhKSSL2vPCnCz8ujuMeQQaHtxn60cTbv0wb1GsCCQASFUYMZ4rGQV1IcImnM7TrZ85+jGeLOhWN8cAsRVqwsmxQXm6tlAeUEbNYhgVFlpTG8d1qzvInLASad35Fk7qfEUmUvraQ4apBpQD34mVT6OupXr9wFAAAA) format('woff2')}
+text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px}
+.dim{fill:#7f8c98}.ac{fill:#f05138}.fg{fill:#dfdfe0}.gr{fill:#67b7a4}.wh{fill:#ffffff}.pk{fill:#ff7ab2}
+@keyframes fadein{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ln{animation:fadein .35s ease-out both}
+.cursor{animation:blink 1.05s step-end infinite}
+.dot{animation:pulse 2s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grid" x="10" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f05138" stroke-opacity=".07"/></pattern>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="110" height="120"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+
+</defs>
+
+<rect x="0" y="0" width="110" height="120" fill="#1f1f24"/>
+<rect x="0" y="0" width="110" height="120" fill="url(#grid)"/>
+<g class="ln" style="animation-delay:0.38s">
+<path d="M11.0 10H89.0L99.0 20V106H11.0Z" fill="#f05138" fill-opacity=".035"/>
+<path d="M11.0 10H89.0L99.0 20V106H11.0Z" fill="none" stroke="#f05138" stroke-opacity=".35"/>
+<path d="M89.0 10L99.0 20" stroke="#f05138" stroke-width="2"/>
+<text x="19.0" y="32" font-weight="700" class="ac" style="font-size:11px">baton</text>
+<path transform="translate(70.4 84) scale(.55)" d="M10 0l2.9 6.6 7.1.6-5.4 4.7 1.6 7L10 15.2 3.8 18.9l1.6-7L0 7.2l7.1-.6z" fill="#d9c97c"/><text x="91.0" y="94" text-anchor="end" class="dim" style="font-size:11px">2</text>
+</g>
+
+</svg>

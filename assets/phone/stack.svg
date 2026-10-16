@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="520" viewBox="0 0 440 520" role="img" aria-labelledby="t d">
+<title id="t">Tech stack</title>
+<desc id="d">Tech stack. languages: Swift, Objective-C, Python, TypeScript. apple: SwiftUI, UIKit, Concurrency, Metal. server: Hummingbird, Node.js, Docker. tooling: Xcode, Tuist, mise, Fastlane, GitHub Actions. agents: Agent Skills, MCP servers, Claude Code.</desc>
+<style>
+@font-face{font-family:'JBM';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAywABAAAAAAGQgAAAxTAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGkwbIBwqBmA/U1RBVF4AgUIRCAqjBJtCATYCJAOBdAt8AAQgBYQ+ByAMBxuyE6OilLG60Pz1ITpgyNehLUEmQqM0bUyzs7V9bleZsl4Zz3Silz7pJ/JvgtJPjbq7jVOSoOU/j5tf5yahLe9B69Q8NTEmSwg/0E9Fhe56ZdyEWVEvYexuQOPsiQNPE8Lq/8Jv2GkKLT947mUXOh2UooOXj0qtI26iyeHvwAOEWixpQ+9lPwejcuLNKFqhTC/J5iDp8x7E7/7fmmnzD1HFXZG0rfr5wcnsz5scT8pTINxcYcpgVIXa2y0AOAByLEyVlL3WNHpa0b7BFTbAKDH1db9bCQTABJjPXQADIQghRAhCmDCEcOEIkSIRokUjxIlDSJCIkExGSJeBQAAYYsSh5tZuG/wgAcDpKQCAEDJeCvz4/GcGV+YQgQN4SYKDzmcAhMPmJABdpj86i8LUTxIA41DHQ5s8n7FzA3geM5Xif///UI2hbKDCgix4RyUwJJv28xRGKDEohbA+PrFCAP4xE0ABIPggSqaYKZBE54evA71ILgmwRXgaAMoETpIkwXF6SY16Cfc+TFkCCT5IkCJPhQbNOnSxUjlMmrJg3aa9qcwIIetz5Nc3aa3v8RUYbJy2BBV3s1jg9N+et1ktZqNerlAWKMcs/39i+5XkHFyqWAkCnVJI1lSwtXwXGEYB32bOEQWgUQC5DAjuTqIiaiq6Rif4ZqI9P8aBuXI/Y4KJsRSTyRwbHOxvNmb5BUfE8nD/uOu8USw03j+c9XsGpFuC/SP8LTkhweY1trxMPDrBlGwxGaNjypdrkiQfnxQ/vzjAJu7m/czObE5uv/GzXPwkDB5+n5J48H/Gj95PwA4+dvhA8Lz86CfueT7mhltCEOhI/UIcND/jBjNMKLZZIFDENg709Qlc5BITmcCJGxiZwSQOy3xO7jjDdI3t5dQrisirrHgNS5Sdn8U7ZPM1b/iIzPZfeS/ykz17BXcHjkXIdhNLIJ44qRwTxBUJclNJ3B4DVKndOOSF1dRRtZaoIxORRkZNIgOXNNXR5ufUuXpFEnZZFq3F72O/MrVcHEfY1EM6xXkprmNLDPO9MARGLNyTHtZnHB7wnJRBGQzMwGHj6Qc4BiaWRkRHJ5iMr/BGiThUMufkxSHXPziT24lLjFgWn/gJYPJQvsdnnMMWMnOREU87BbNsD3AwQaXDPBuRxtKUxe6VlbmKQLZ+jGa6HZhGu8AeQTMnamMWOOhwDLVpfPShx/KWYzDHGLOZhXN4Mzzi4JajC3l6nbyGUjvmhHSFLLzc06WM5tO26kZ2yZbhcBUaroAX25hZiLy/D+P4FYSndpDXFwf4tER25ch0aC4eFDMPl5RXyfM5wyNyDPYy/yyojkffs/zMNUXkVVW8k7vaZVcYZVZ0Uvi6mH6lablYj3CoGiKshF2mbdfEsz+PdrjSwXY0Czzz+2ZspHE1mbSP/gm1sc/cUU202cygjL8XhFmdkWYiM2yUKz8zmWicj4ATz8UUO7+GDG46xDHM6Zhe5MLPoh6xu1CRkzvCokCMOBNvmeHTJrxf7BqsNe2p2/L6PFreipmMO3DlJ5pMVz5OoJ0WfwHdNw/NdzhD2IPzcIXqNt9wkhnDdo3bVE2zc9U2SOOxMctztohyCoY4PvkOTLpKUXI3A3rt/kkYi118OLGWFu1D8APPJHfwo4iI4/P4Qfhseic79IHpkB5Wp/DeF5tPf+LMe/S9q0eD+fGyr0+D1J49izPUIU/jQAnjkCBl7PrVUOqWltnEgpjKMiUwBGkd21cGLVzmuKXA5X2mbYwVPHWAKgzm3ZiDY0NoMEAHkPKvHALcX96r2P+rViTNM6ghddLW5O/v9j5vv1cv/7Vcr4Ksv1oxqWzjtinfZAou8J2oGHtIGHzVeXb2+KnEZBJ0e9e6frsvrhjXnd+v17wOY7Zh3rjCpsqmjXWnjzWajfkuGRYLmoF34/sLEQ3bBWvKbq0T/t5CeIMVU3cjS+PZktII60pth9rIVYhAKPxJXIYUBiGksoTqWHoDl/c3zcMM51LCpTffkbYpf94m2fAr0DDlTcjTPlbE17TSy4JIRYbC5xeSu4Pjgp3jYwIyU+kWk/SU0cChc9gnS5gvLSgi74bj/Z1j44I+vmZoCTidU36tvP4dZBmbnui1t9r7JF3xybpv8y0OHj0BpP/iq+MTEz/yyFYwc+HSZ8OvDn6wPj73J48cCmUs3P0l/kMbrg5HhlRVnObLnpcXkGxqNW1dTlW547zy2dWj2vy+2qVzBk6g0ujJgpK8wu/RZWw+x486th9lfapfX28ntCNMBtTUkHHuIUcMNzEiEhVvx/2LPNbh9lpa0rqhErZpOy2xB79gd8qw+po+EAuCrFO4o1ZXZQGLA6z62vIwwCkj45xD7vC4lJYIwI4d6+1cb3n1yfYdUcKfEREQKYqMEGZZkKVhoIxxUFsV2/U04R+2jb1KlhBNYf4f0Zs2r8SzaAbBOlSITno1wsr1yvVuQyLoP5S8oU/LWPc3yo+uwfWVcl/usGyj3nBw6+o+Xa3wxjtTHW9chRrTfa2DJmukoFWRGDgwhcJRIahG4ZKes/9GD48KGUgihp7yhlVPtkbKEHMC1rEDVOXJV+9UpI+fUGB7KHUANapc+7lS32RwfdIw4Pbql42+7tvxxxs9FT/qwP/Tf8N6vpmRpRf98YQSgvpX9r2goFGO0fYf5Royc0tUeCwzqzAjlxEi+HDqpv7PYqK/T7q5/aYB38fEXE06CpdsRSL+VKCarDS63yrYDG6kjVxtIRAKfxKTCcGbcQORJVrHcjRwPjTnF036tdTgse4hlF8bLxHU1AMxM/9RUT//KHMiTwTy6wbzcvWoTj1xTdgKVw0fa/ezuhGoSWIW3veolCv923Tpg0h+LisNHPDzpx3cau5tN4J23MmMuYH91pm6DLnsBzlpwfEAd5itXf5wunIwmGiLhnR1T/KqPfpVnyvfbarzbVeQyb040XMsByKNF7AGW1fiTZkI/tClDpo16WDPYtxz49pi7ebMYFvLiHPLUge3bbs41bfMXs0LFj8DYVm3M2OINEfeEd9nRkiZAx6orJ+8JY7sp9L3EbpvXU95rb9AlqYhhk0TTFnXdKqad+jPpZiw6WVp2OcPK1jxbxNiOfnPaIqJBtHXB1n1QHle88pFIzfP3l55WIHL9eVvj4ucfIXqEvabyKrXUJ4eWqbS9LftPYVkVjBy5VaPAhI0DjGsjSxF0xSomhIDVRWGrKsX0pNLrBef5iOrk9IM4uwhDLhS7zzpe3Yo/UH63w+6GWQ4s1jbrEcP1pXVQRWa8PDss3a+oEsXeZSM+n+uJ/KCLKoGQ3NDTG/SRJCtdUISRxl871FfPyoPfd9VmEd65fiq+KJhhiGOGi4ZMRwpb+GW8TEQPCF8K3Ssdf+F478Hs/MsC9kqmRh2eGC68GqemlP8U2npz/npheqSdE5soOnQmukjh8YUA7J5BfpRNzeWadYgoSRRm4eQQHFxAZnVyWy3cEm2lssZCDyVRJlcvcJw3RRHjpD0JKtGmnts2R/TVWWR30pNeyfL79JS36BztnPZWXfhhSMpjuPAlfbqD2aFsbd+9+6fcIl8Sk/2nRfB+7V+36mJeqpecs7uc9u39rrig0ekmny9eoniOzwOztGLmr/6z52vrE9y5Jiqpl/72NeZ/2W+wytVgVaPGrKKkXET1P+/tco0pAzR+PCv0PA5PYyK9mjDlDdlljX3ALI6MdGrd7Jfv2TvXokVBBlRAB9Ud1sUM8ABwJoFVDdClmiE+rvp9fX9EAChVApfvn9yt/pvfqL4S4AvP3Qlm+ZtceiJQok4RlYhIESxP9BKcNjL3glB7rOosQldisICHOBidwf6eRKEbltHQTuXcUjnBoutFlBtObibgxvi7EYEuHie1C5rFCezFYR2aGWr4OZOsRW+gC445osKhuO/1AD4GQKgRhkRUYSsxADNcWjXJBkNPB3r9CHEeLqPAH983kdEtZ/3kZCdpD4GRKW3tw8yMzEEASa60JKIshRgKb72/gLB6E5N5i3YtGTSuAkrEhTKL3QCGwSjovOgVzTiBhw0ac6y7jHfhHlttWTEFEoOE+gGq0JMgHIJK9OJ9YqF7sqV8uQZN4mZf9WQXMPyKLPywnQNJgJve0ZaWjEqR1w1Y9CSwgELFShQdayNqoi3lOO8/pPPhwY7TVpOIqyEwBsrIGiJxRAdhR40I0cNU/IkBnmLiPPInY6iEEBY8HE6bdIJAAA=) format('woff2')}@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}
+text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px}
+.dim{fill:#7f8c98}.ac{fill:#f05138}.fg{fill:#dfdfe0}.gr{fill:#67b7a4}.wh{fill:#ffffff}.pk{fill:#ff7ab2}
+@keyframes fadein{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ln{animation:fadein .35s ease-out both}
+.cursor{animation:blink 1.05s step-end infinite}
+.dot{animation:pulse 2s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grid" x="0" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f05138" stroke-opacity=".07"/></pattern>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="440" height="520"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+
+</defs>
+<path d="M12 -40V560M428 -40V560" fill="none" stroke="#f05138" stroke-width="3" opacity=".5" filter="url(#glow)"/>
+<rect x="12" y="0" width="416" height="520" fill="#1f1f24"/>
+<rect x="12" y="0" width="416" height="520" fill="url(#grid)"/>
+<text x="32" y="44" font-weight="700" fill="#f05138" filter="url(#g)" opacity=".8" style="font-size:20px">~/</text>
+<text x="32" y="44" font-weight="700" style="font-size:20px"><tspan class="ac">~/</tspan><tspan class="wh">stack</tspan></text>
+<text x="408" y="44" text-anchor="end" letter-spacing="2" fill="#5f6a75" style="font-size:12px">// 06</text>
+<line x1="32" y1="58" x2="408" y2="58" stroke="#f05138" stroke-opacity=".4"/>
+<line x1="32" y1="58" x2="152" y2="58" stroke="#f05138" stroke-width="2"/>
+<line x1="32" y1="58" x2="152" y2="58" stroke="#f05138" stroke-width="3" filter="url(#g)"/>
+<g class="ln" style="animation-delay:0.15s"><text x="32" y="96" class="dim" style="font-size:14.6px"><tspan class="gr">$</tspan> swift package show-dependencies --depth 1</text></g>
+<g class="ln" style="animation-delay:0.25s">
+<text x="32" y="134" class="dim" style="font-size:12px">languages <tspan class="ac">›</tspan></text>
+<rect x="32.0" y="144" width="56.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 151V144H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="161" font-weight="700" class="ac" style="font-size:12px">Swift</text>
+<rect x="96.0" y="144" width="99.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M96.0 151V144H103.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="106.0" y="161" font-weight="700" class="ac" style="font-size:12px">Objective-C</text>
+<rect x="203.2" y="144" width="63.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M203.2 151V144H210.2" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="213.2" y="161" font-weight="700" class="ac" style="font-size:12px">Python</text>
+<rect x="274.4" y="144" width="92.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M274.4 151V144H281.4" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="284.4" y="161" font-weight="700" class="ac" style="font-size:12px">TypeScript</text>
+</g>
+<g class="ln" style="animation-delay:0.35s">
+<text x="32" y="202" class="dim" style="font-size:12px">apple <tspan class="ac">›</tspan></text>
+<rect x="32.0" y="212" width="70.4" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 219V212H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="229" font-weight="700" class="ac" style="font-size:12px">SwiftUI</text>
+<rect x="110.4" y="212" width="56.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M110.4 219V212H117.4" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="120.4" y="229" font-weight="700" class="ac" style="font-size:12px">UIKit</text>
+<rect x="174.4" y="212" width="99.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M174.4 219V212H181.4" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="184.4" y="229" font-weight="700" class="ac" style="font-size:12px">Concurrency</text>
+<rect x="281.6" y="212" width="56.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M281.6 219V212H288.6" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="291.6" y="229" font-weight="700" class="ac" style="font-size:12px">Metal</text>
+</g>
+<g class="ln" style="animation-delay:0.45s">
+<text x="32" y="270" class="dim" style="font-size:12px">server <tspan class="ac">›</tspan></text>
+<rect x="32.0" y="280" width="99.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 287V280H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="297" font-weight="700" class="ac" style="font-size:12px">Hummingbird</text>
+<rect x="139.2" y="280" width="70.4" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M139.2 287V280H146.2" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="149.2" y="297" font-weight="700" class="ac" style="font-size:12px">Node.js</text>
+<rect x="217.6" y="280" width="63.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M217.6 287V280H224.6" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="227.6" y="297" font-weight="700" class="ac" style="font-size:12px">Docker</text>
+</g>
+<g class="ln" style="animation-delay:0.55s">
+<text x="32" y="338" class="dim" style="font-size:12px">tooling <tspan class="ac">›</tspan></text>
+<rect x="32.0" y="348" width="56.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 355V348H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="365" font-weight="700" class="ac" style="font-size:12px">Xcode</text>
+<rect x="96.0" y="348" width="56.0" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M96.0 355V348H103.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="106.0" y="365" font-weight="700" class="ac" style="font-size:12px">Tuist</text>
+<rect x="160.0" y="348" width="48.8" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M160.0 355V348H167.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="170.0" y="365" font-weight="700" class="ac" style="font-size:12px">mise</text>
+<rect x="216.8" y="348" width="77.6" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M216.8 355V348H223.8" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="226.8" y="365" font-weight="700" class="ac" style="font-size:12px">Fastlane</text>
+<rect x="32.0" y="382" width="120.8" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 389V382H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="399" font-weight="700" class="ac" style="font-size:12px">GitHub Actions</text>
+</g>
+<g class="ln" style="animation-delay:0.65s">
+<text x="32" y="440" class="dim" style="font-size:12px">agents <tspan class="ac">›</tspan></text>
+<rect x="32.0" y="450" width="106.4" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M32.0 457V450H39.0" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="42.0" y="467" font-weight="700" class="ac" style="font-size:12px">Agent Skills</text>
+<rect x="146.4" y="450" width="99.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M146.4 457V450H153.4" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="156.4" y="467" font-weight="700" class="ac" style="font-size:12px">MCP servers</text>
+<rect x="253.6" y="450" width="99.2" height="26" fill="#f05138" fill-opacity=".06" stroke="#f05138" stroke-opacity=".55"/>
+<path d="M253.6 457V450H260.6" fill="none" stroke="#f05138" stroke-width="2"/>
+<text x="263.6" y="467" font-weight="700" class="ac" style="font-size:12px">Claude Code</text>
+</g>
+<path d="M12 0V520M428 0V520" fill="none" stroke="#f05138" stroke-width="1.2"/>
+<g fill="none" stroke="#f05138" stroke-width="2"></g>
+</svg>

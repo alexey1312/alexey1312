@@ -16,7 +16,7 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 </style>
 <defs>
 <pattern id="grid" x="0" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f05138" stroke-opacity=".07"/></pattern>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="880" height="40"><feGaussianBlur stdDeviation="6"/></filter>
 <filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
 
 </defs>

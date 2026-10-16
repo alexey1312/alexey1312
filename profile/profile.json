@@ -55,12 +55,6 @@
       "label": "Email",
       "handle": "me@kakoulin.com",
       "url": "mailto:me@kakoulin.com"
-    },
-    {
-      "icon": "cv",
-      "label": "CV",
-      "handle": "PDF",
-      "url": "cv.pdf"
     }
   ],
   "highlight": {

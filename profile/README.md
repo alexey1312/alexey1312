@@ -31,6 +31,17 @@ so a second run on the same day makes no commit.
 The `last sync` date in the stats changes every day,
 so the workflow commits once a day.
 
+## Phone
+
+Each slice has a phone variant in `assets/phone/`.
+It is 440 px wide, half the desktop width,
+so its text shows twice as large on a narrow screen.
+The README swaps it in with `<picture>` below 600 px.
+The image widths in a row stay the same,
+so a phone card is half as wide and wraps its text.
+The `srcset` points to the file on `main`,
+so a phone variant shows only after a push.
+
 ## Every day
 
 `.github/workflows/profile.yml` runs `mise run readme` every day at 08:17 in Almaty
@@ -52,6 +63,8 @@ as the repository secret `PROFILE_TOKEN`.
   add an item to `also`.
   Keep a multiple of four items.
   The description wraps at 21 characters and can have two lines at most.
+  On a phone, only the name shows:
+  it wraps at 10 characters and can have three lines at most.
 - A new post:
   add an item to `writing.posts`, newest first.
 
@@ -62,5 +75,5 @@ as the repository secret `PROFILE_TOKEN`.
 The console design, the slices and the contribution city come from
 [Giorgi Kobaidze's profile](https://github.com/georgekobaidze/georgekobaidze)
 under the MIT license; see [NOTICE](../NOTICE).
-The install line on each project card is an idea from
+The install line on each project card and the phone variants are ideas from
 [@jdx's profile](https://github.com/jdx/jdx).

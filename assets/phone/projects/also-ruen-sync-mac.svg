@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="120" viewBox="0 0 110 120" role="img" aria-labelledby="t d">
+<title id="t">ruen-sync-mac</title>
+<desc id="d">ruen-sync-mac: QMK layer follows macOS input. 0 stars.</desc>
+<style>
+@font-face{font-family:'JBM';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAbAABAAAAAADMgAAAZmAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVF4AdBEICo1cix8BNgIkAywLLAAEIAWEPgcgDAcbSQqjooLTAfGXB9yQgW+gGYpICFXUjmSp10h1XV9OrfW0qtaOT5YRYTgDxkeFJ/TnLRiMMEXkMQv3+5zZ5Gg37xgLQEK19gDAmBebX2ZZoQCFPkBhKkwdDeVJTdsFWTOYiesUmjKpF8YLd/cCgJ94nry9vy3SLOs6rwSigPLAQ45iaP1f1lj478+d7wagY2hdcxTIe/2j/wHOYWfCAcfB/V6+H22xDbPFZjh80beqW2VThY1mAVQNVA248QAHSNNhzVNHArSdvdYWBATXVUKQQ0XKUH0f1WoRzS4k8mAMD8B/AQAgfgcYafc26VK2rANzgID9fBnU3DWAPEwZALgxnM4TuAMBEChzxaZzr68A4CcmO+uff4Etk1bYK8koH4JOIxGVEkAtHWAf7d0fbNEA+AfMEZoKULFm5qpW4nk3ATsBfsCJ0+QVAadWJggkwQVAks4RJmkKHXv1cSGKtq51NttqZwEwCqPTtdamv+l2vfXGa0889MDd4mIUfuyq0NfBkZgtgMwA8gMSPJkr+DBzqmN5ADfuh9hm7c16qL7+eHX5bb9gLZ2hpz6UtbTO0X1fSozZ7HVMU2jVrWyFCFFqQx76C5nUJMh1KqVNMiKK+/R9wnsBedyWe2w9LKUbQFBauSNvhBHePbMigzVGR5XhjB2i4xR1cde08lAGYcx80kSFodcPypjYLdhquz1Da8uM34X+zQxdVIhd+vxSTQ/y83zfxiyq4kvpTNLN01eFvoGqGHrW1T0ZWkZsMR8mxyL4Ikhw0e6Zx4H0Mf5WeJE/Rivq5YB5g3FgLacpQ7ccMF1pb28Jp/EWkwN1VQ4EZuglCnDoesbABZuF0XJT0W+vEO2doFVH0kJvaeCWCYPic9jh7IgN1i2h+HQKHdP1t5UAZYZRNA0M3Hq0VzE9Xi4KwQSvlNbQBOPhYteR+jFo0q4+NTgS5LuNMIOw/xholxPJdqlwY8DzbNCFjAweI2zOlZprlfyu8nDyr9dqvF+AGdqdut7msti/Bg6M6vI10EWMr666mObmrraEV8BgMMIz1MUUz0aCMLQca0ubu8ACtTzeBn0R9NZpDfFVdagUfdOXc6T37w4ew22RDcxKBHmKRDxaOBIw+jQz7T37SLPdxVLXmA32lWZvMAmvzF217JkF879edrV01fKvFyy4u/n5oKbHw+krUFLgc0q3vAkPIr/6g5CFDbBeXx7OXAArCZwo9dbUl+K5iOLCIcjDBphXMLtschzXkNXsC69Y/v27UZMnpiQhVpcb+nQzeimu/H9Y7/lGv2z/tdHx5YlyXEq0iiowa27coDRwg6K5QBBy1Pg0yuYN4I675Hde0nX251qP0vSj8vacMukDWLCq19dCkPE16WyWU/ZgTQYiX6srkyCkBAlJaZGabpFf52sWzAct9/9hDcDZZ8lnznWu3rX7xJVZUKt9+vMZT8NKMnwYSiKNNSjY6nhYpuX21BGFdsaSdz2QzIIlGNXrq9OY5DiSYsWwl2JZKo7vvs2YPYyffHh8Z+vGlpf219te8Pzy2NklN6vGx4y/34mvBiaVjdWxSRz7/yJNsZRIjV9muOQJ7M/lWZP2zx9wxHx0Gajr2qKycQOwEgbh0FAILBp+fq++82r8jAUtNBGlgKMrCKquvbCQhsm8ICwJkDwSPDDieO0a/Ohz5T+xdL7S7itFkFBPrGjZ73awJud3fv/3TqOdPdyypVeIDaaybdBJkwLls9j4q5v2tF6s0EFXpmqh6YZpmgRpsZw1qvoftnJmv0CDL8mwRMo9erwYGvTDfDIdA3HeCfU0vdLppTKUcwEAAAJk8ZGV/V6z4trvMTr3C2Bv9dqavHn39T8FekK65BtQTAwRv2jZ5ABYBNaBxqVSWY0hhTUko2Y9TAEyEVMikBVwIOMZB351AnQL0EUmAfqzlQH4ChtArR4OEOW2A5xrvg3wjmVZQJHmpPyLHckgAoGQ+1O8qxRWqIyvb1eJcflgs94GO20y1DewxRJuzgctkRdCl2K6SpUBhlQMrbOZktYzsJ5kmwZ1FQzbLgjZ2qgDMW4Co9E1Mx69wWZhDg59Q9DvbKWya1tvLUeg0cVS6LmbEkZZ3TbmVmsoNnGHdHNxiWyWEXE9g8187M1MS8bcom62cQiZsiT0RIWEkvRyqNEHKda0Mduy1ltLSdO5tvwf3G+wlh9jG3EA) format('woff2')}@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}
+text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px}
+.dim{fill:#7f8c98}.ac{fill:#f05138}.fg{fill:#dfdfe0}.gr{fill:#67b7a4}.wh{fill:#ffffff}.pk{fill:#ff7ab2}
+@keyframes fadein{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ln{animation:fadein .35s ease-out both}
+.cursor{animation:blink 1.05s step-end infinite}
+.dot{animation:pulse 2s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="grid" x="20" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f05138" stroke-opacity=".07"/></pattern>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="110" height="120"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+
+</defs>
+
+<rect x="0" y="0" width="110" height="120" fill="#1f1f24"/>
+<rect x="0" y="0" width="110" height="120" fill="url(#grid)"/>
+<g class="ln" style="animation-delay:0.46s">
+<path d="M11.0 10H89.0L99.0 20V106H11.0Z" fill="#f05138" fill-opacity=".035"/>
+<path d="M11.0 10H89.0L99.0 20V106H11.0Z" fill="none" stroke="#f05138" stroke-opacity=".35"/>
+<path d="M89.0 10L99.0 20" stroke="#f05138" stroke-width="2"/>
+<text x="19.0" y="32" font-weight="700" class="ac" style="font-size:11px">ruen-sync-</text><text x="19.0" y="47" font-weight="700" class="ac" style="font-size:11px">mac</text>
+<path transform="translate(70.4 84) scale(.55)" d="M10 0l2.9 6.6 7.1.6-5.4 4.7 1.6 7L10 15.2 3.8 18.9l1.6-7L0 7.2l7.1-.6z" fill="#d9c97c"/><text x="91.0" y="94" text-anchor="end" class="dim" style="font-size:11px">0</text>
+</g>
+
+</svg>
