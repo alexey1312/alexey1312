@@ -28,7 +28,7 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <text x="52" y="25" class="dim" style="font-size:13px">2026-10-16</text>
 <text x="146" y="25" class="ac" style="font-size:13px">›</text>
 <text x="164" y="25" class="fg" style="font-size:14px">xcsift v1.7.0</text>
-<path transform="translate(770.4 15) scale(.55)" d="M10 0l2.9 6.6 7.1.6-5.4 4.7 1.6 7L10 15.2 3.8 18.9l1.6-7L0 7.2l7.1-.6z" fill="#d9c97c"/><text x="806" y="25" text-anchor="end" class="dim" style="font-size:12px">506</text>
+<path transform="translate(770.4 15) scale(.55)" d="M10 0l2.9 6.6 7.1.6-5.4 4.7 1.6 7L10 15.2 3.8 18.9l1.6-7L0 7.2l7.1-.6z" fill="#d9c97c"/><text x="806" y="25" text-anchor="end" class="dim" style="font-size:12px">507</text>
 <path d="M818 25l8-8M820 17h6v6" fill="none" stroke="#f05138" stroke-width="1.5"/>
 </g>
 <path d="M16 0V40M864 0V40" fill="none" stroke="#f05138" stroke-width="1.2"/>
