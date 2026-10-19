@@ -248,11 +248,11 @@
     "archived": true
   },
   "alexey1312/reachy-mini-swift": {
-    "stars": 4,
+    "stars": 5,
     "release": {
-      "tag": "0.7.1",
-      "date": "2026-10-06",
-      "url": "https://github.com/alexey1312/reachy-mini-swift/releases/tag/0.7.1"
+      "tag": "0.7.2",
+      "date": "2026-10-18",
+      "url": "https://github.com/alexey1312/reachy-mini-swift/releases/tag/0.7.2"
     },
     "own": true,
     "archived": false
