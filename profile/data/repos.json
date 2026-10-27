@@ -310,11 +310,11 @@
     "archived": false
   },
   "ldomaradzki/xcsift": {
-    "stars": 509,
+    "stars": 510,
     "release": {
-      "tag": "v1.7.0",
-      "date": "2026-10-16",
-      "url": "https://github.com/ldomaradzki/xcsift/releases/tag/v1.7.0"
+      "tag": "v1.7.2",
+      "date": "2026-10-26",
+      "url": "https://github.com/ldomaradzki/xcsift/releases/tag/v1.7.2"
     },
     "own": false,
     "archived": false
