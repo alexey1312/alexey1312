@@ -228,11 +228,11 @@
     "archived": false
   },
   "alexey1312/iPhone-Duo-Agent-Skill": {
-    "stars": 5,
+    "stars": 6,
     "release": {
-      "tag": "v1.4.2",
-      "date": "2026-10-14",
-      "url": "https://github.com/alexey1312/iPhone-Duo-Agent-Skill/releases/tag/v1.4.2"
+      "tag": "v1.6.0",
+      "date": "2026-10-30",
+      "url": "https://github.com/alexey1312/iPhone-Duo-Agent-Skill/releases/tag/v1.6.0"
     },
     "own": true,
     "archived": false
@@ -312,9 +312,9 @@
   "ldomaradzki/xcsift": {
     "stars": 510,
     "release": {
-      "tag": "v1.7.2",
-      "date": "2026-10-26",
-      "url": "https://github.com/ldomaradzki/xcsift/releases/tag/v1.7.2"
+      "tag": "v1.7.4",
+      "date": "2026-10-29",
+      "url": "https://github.com/ldomaradzki/xcsift/releases/tag/v1.7.4"
     },
     "own": false,
     "archived": false
