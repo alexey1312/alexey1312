@@ -1,14 +1,14 @@
 {
   "created_at": "2018-02-17T16:53:14Z",
   "followers": 52,
-  "prs": 511,
-  "prs_merged": 432,
+  "prs": 516,
+  "prs_merged": 437,
   "repo_count": 38,
   "stars": 69,
   "languages": {
-    "Swift": 10198212,
+    "Swift": 10264787,
     "Python": 2840344,
-    "Shell": 332667,
+    "Shell": 333395,
     "HTML": 159420,
     "TypeScript": 95124,
     "C": 50108,
@@ -25,14 +25,14 @@
     "Objective-C": 825
   },
   "year": 2026,
-  "contributions_year": 5914,
-  "contributions_all": 26663,
-  "streak_current": 38,
+  "contributions_year": 5967,
+  "contributions_all": 26716,
+  "streak_current": 40,
   "streak_longest": 80,
   "highlight": {
     "rank": 1,
     "commits": 96,
     "of": 17
   },
-  "updated": "2026-11-11"
+  "updated": "2026-11-12"
 }
