@@ -250,9 +250,9 @@
   "alexey1312/reachy-mini-swift": {
     "stars": 6,
     "release": {
-      "tag": "0.7.5",
-      "date": "2026-11-06",
-      "url": "https://github.com/alexey1312/reachy-mini-swift/releases/tag/0.7.5"
+      "tag": "0.7.6",
+      "date": "2026-11-26",
+      "url": "https://github.com/alexey1312/reachy-mini-swift/releases/tag/0.7.6"
     },
     "own": true,
     "archived": false
@@ -310,7 +310,7 @@
     "archived": false
   },
   "ldomaradzki/xcsift": {
-    "stars": 520,
+    "stars": 524,
     "release": {
       "tag": "v1.7.5",
       "date": "2026-11-11",
